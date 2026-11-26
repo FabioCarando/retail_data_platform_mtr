@@ -2,7 +2,7 @@
 
 A lightweight sales, inventory and performance management application built for **Tenuta Monteromola**, a small Italian producer of wine and honey.
 
-The application provides a simple mobile-first interface for managing daily sales, stock, prices and business performance.
+The application provides a simple mobile first interface for managing daily sales, stock, prices and business performance.
 
 
 ## Features
